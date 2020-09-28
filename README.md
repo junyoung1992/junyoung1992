@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **junyoung1992/junyoung1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### A Master's Degree Student
+
+* I study deep learning distributed processing using edge devices.
+
+### Interest
+
+* Machine Learning (Computer Vision, ...)
+* Compression (Pruning, ...)
+* Computer Architecture (Accelerator, ...)
