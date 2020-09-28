@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### A Master's Degree Student
+### a Master's degree Student
 
 * I study deep learning distributed processing using edge devices.
 
