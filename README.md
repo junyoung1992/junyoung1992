@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 * I study deep learning distributed processing using edge devices.
 
-### Interest
+### Interests
 
 * Machine Learning (Computer Vision, ...)
-* Compression (Pruning, ...)
+* CNN Compression (Pruning, ...)
 * Computer Architecture (Accelerator, ...)
