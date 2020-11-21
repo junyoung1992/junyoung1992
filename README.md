@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 * Machine Learning (Computer Vision, ...)
 * CNN Compression (Pruning, ...)
 * Computer Architecture (Accelerator, ...)
+
+### Git Repositories
+
+I usually use **C**, **C++**, and **Python**.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
