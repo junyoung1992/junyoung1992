@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 ### Master's degree Student
 
-* I study deep learning distributed processing using edge devices.
+*I study Distributed DNN using edge devices and Computer Architecture.*
 
 ### Interests
+
+*I'm interested in quickly running AI applications on end devices.*
 
 * Machine Learning (Computer Vision, ...)
 * CNN Compression (Pruning, ...)
 * Computer Architecture (Accelerator, ...)
 
-### Git Repositories
 
-I usually use **C**, **C++**, and **Python**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
