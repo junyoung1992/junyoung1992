@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 
 ### Master's degree Student
 
-*I study Distributed DNN using edge devices and Computer Architecture.*
+I study Distributed DNN using edge devices and Computer Architecture.
 
 ### Interests
 
-*I'm interested in quickly running AI applications on end devices.*
+I'm interested in quickly running AI applications on end devices.
 
 * Machine Learning (Computer Vision, ...)
 * CNN Compression (Pruning, ...)
 * Computer Architecture (Accelerator, ...)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
