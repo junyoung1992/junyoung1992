@@ -22,7 +22,7 @@ I study Distributed DNN using edge devices and Computer Architecture.
 
 ### Interests
 
-I'm interested in quickly running AI applications on end devices.
+I'm interested in accelerating AI applications on end devices.
 
 * Machine Learning (Computer Vision, ...)
 * CNN Compression (Pruning, ...)
