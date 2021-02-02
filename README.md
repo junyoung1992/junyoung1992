@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Master's degree Student
+### Bio
 
-I study Distributed DNN using edge devices and Computer Architecture.
+I work as System Engineer for CJ OliveNetworks.<br />
+I studied a master's degree in Compute Engineering at Sejong University.
 
 ### Interests
 
