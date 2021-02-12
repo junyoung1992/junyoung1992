@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 I work as System Engineer for CJ OliveNetworks.<br />
 I studied a master's degree in Compute Engineering at Sejong University.
 
-### Interests
-
-I'm interested in accelerating AI applications on end devices.
-
-* Machine Learning (Computer Vision, ...)
-* CNN Compression (Pruning, ...)
-* Computer Architecture (Accelerator, ...)
+### GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
