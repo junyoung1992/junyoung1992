@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Bio
-
-I work as System Engineer for CJ OliveNetworks.<br />
+```
+I work as System Engineer for CJ OliveNetworks.
 I studied a master's degree in Compute Engineering at Sejong University.
+```
 
-### GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
