@@ -21,4 +21,4 @@ I work as System Engineer for CJ OliveNetworks.
 I studied a master's degree in Compute Engineering at Sejong University.
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung1992&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
