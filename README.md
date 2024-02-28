@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ```
-I work as System Engineer for CJ OliveNetworks.
+I work as Backend Engineer for Kakaopay Securities.
 I studied a master's degree in Compute Engineering at Sejong University.
 ```
 
